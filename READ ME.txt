@@ -1,0 +1,10 @@
+This project is outlining an inventory management system having the following features:
+POS - when an item is sold the quantity is reduced in the store inventory, on screen POS machine
+Warehouse - where products are sent from to the individual stores (invoice, order request)
+Manager Side - gets a notice when store product quantity is 5 or less, allowed to make request for supplies, update the inventory when supplies arrive, upload video survillance 
+contains validation and login 
+
+Get Run
+
+change connection strings and create database
+ASP.net web forms
